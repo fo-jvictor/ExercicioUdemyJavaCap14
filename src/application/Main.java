@@ -21,7 +21,7 @@ public class Main {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
 		
-		System.out.println("Entre com os dados do cliente: ");
+		System.out.println("Entre com os dados do cliente:");
 		System.out.print("Nome: ");
 		String clientName = input.nextLine();
 		System.out.print("Email: ");
